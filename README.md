@@ -14,3 +14,7 @@ Glioblastoma is the most common and most aggressive form of brain tumor. Surgery
 
 **In our project was used next Rpackages:**
 tidyverse, readxl, dplyr, funModeling, Hmisc, ggplot2, PerformanceAnalytics, pROC, forecast, ResourceSelection, vcd
+
+
+![alt text](https://github.com/DaniilPanshin/Preoperative_assessment_of_glioblastoma_resectability/blob/main/ROC.jpeg)
+Fig.1 Comparison of different rating scales with random forest
