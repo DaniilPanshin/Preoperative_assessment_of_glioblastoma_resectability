@@ -17,4 +17,5 @@ tidyverse, readxl, dplyr, funModeling, Hmisc, ggplot2, PerformanceAnalytics, pRO
 
 
 ![alt text](https://github.com/DaniilPanshin/Preoperative_assessment_of_glioblastoma_resectability/blob/main/ROC.jpeg)
+
 Fig.1 Comparison of different rating scales with random forest
